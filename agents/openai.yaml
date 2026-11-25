@@ -1,0 +1,4 @@
+interface:
+  display_name: "录音总结"
+  short_description: "录音转写与延伸分析，生成重点多宫格、清新简约的 HTML 智能总结"
+  default_prompt: "使用 $recording-content-summary，将录音或转写稿整理成通俗具体、含延伸分析和重点多宫格的 HTML 智能总结。"
